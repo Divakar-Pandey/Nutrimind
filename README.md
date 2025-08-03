@@ -3,3 +3,5 @@ NutriMind is an AI-powered virtual nutrition assistant designed to offer highly 
 
 
 ![Screenshot1](pictures/agent1.png)
+![Screenshot1](pictures/Agent2.png)
+![Screenshot1](pictures/deploy.png)
